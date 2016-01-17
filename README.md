@@ -10,3 +10,4 @@ get the known Players and get the Server Datas like WorldName, Max Players, FPS 
 
 if everyone interested on this version i can upload the code earlyer.
 
+Remember that we need a pached Server with allocs server fixes so we get a lot more telnet commands like 'lkp' (listknownplayers).
